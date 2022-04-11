@@ -8,7 +8,7 @@ mais espcificamente um modelo para a previsão das vendas em 6 semanas. Utilizar
 
 ## 2.Tecnologias Utilizadas
 
-**Python, Pandas, NumPy, Heroku, XGBoost, Seaborn, Boruta, Matplotlib, Telegram, Scikit-Learn, Jupyter Notebook**
+**Python, Pandas, NumPy, Heroku, XGBoost, Seaborn, Boruta, Matplotlib, Flask, Telegram, Scikit-Learn, Jupyter Notebook**
 
 ## 3.Contato
 
